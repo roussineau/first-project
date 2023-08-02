@@ -68,6 +68,10 @@ body {
     justify-content: flex-end;
 }
 
+.no-resize {
+    resize: none;
+}
+
 
 /* Tipografia */
 
